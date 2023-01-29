@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rupaace42@gmail.com**
 
-- ⚡ Fun fact **I am a God.**
+- ⚡ Fun fact **I am The God.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
