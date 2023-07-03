@@ -44,7 +44,7 @@ I'm a passionate and detail-oriented software engineer, specializing in full-sta
 ## 💼 Work Experience
 
 - Frontend Developer at Seismic Engineering - [2019-2021]
-- Full Stack Developer at Company ABC - [2021-present]
+- Full Stack Developer at AceTech - [2021-present]
 
 ## 🌱 Side Projects
 
