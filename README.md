@@ -1,8 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
-
-<p align="center">
-  <img src="https://your-image-url.com/your-image.png" alt="Profile Image" width="200" height="200">
-</p>
+# Hi there, I'm Rupesh Dhungana! 👋
 
 I'm a passionate and detail-oriented software engineer, specializing in full-stack web development. I love to create meaningful and user-friendly applications that make a positive impact.
 
@@ -22,15 +18,15 @@ I'm a passionate and detail-oriented software engineer, specializing in full-sta
 ## 🌱 Side Projects
 
 - [VIPs](https://vipsnepal.com): A Loyalty Program Project.
-- [Digital Menu]([https://.com](https://qrmenu.vipsnepal.com/)): A Paperless Digital Menu.
+- [Digital Menu](https://qrmenu.vipsnepal.com/): A Paperless Digital Menu.
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile URL]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/rupesh-dhungana-0186b71b5/))
+- LinkedIn: [rupaace]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/rupesh-dhungana-0186b71b5/))
 - Instagram: [@rupaace](https://instagram.com/rupaace)
-- Personal Website: [Your Website URL](https://rupaace.acetechnepal.com)
+- Personal Website: [rupaace](https://rupaace.acetechnepal.com)
 
-## 📫 Stats
+## 🔧 Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rupaace&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rupaace&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
