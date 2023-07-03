@@ -8,7 +8,7 @@ I'm a passionate and detail-oriented software engineer, specializing in full-sta
 
 ## 🔧 Skills
 
-- **Frontend**: HTML, CSS, JavaScript, React, Vue.js
+- **Frontend**: HTML, CSS, JavaScript, React, Vue.js, Next Js, Typescript
 - **Backend**: Node.js, Express.js, Django
 - **Database**: MongoDB, MySQL, PostgreSQL
 - **DevOps**: Docker, Kubernetes, AWS, Azure
@@ -16,20 +16,21 @@ I'm a passionate and detail-oriented software engineer, specializing in full-sta
 
 ## 💼 Work Experience
 
-- Software Engineer at Company XYZ - [Date Range]
-- Full Stack Developer at Company ABC - [Date Range]
+- Frontend Developer at Seismic Engineering - [2019-2021]
+- Full Stack Developer at Company ABC - [2021-present]
 
 ## 🌱 Side Projects
 
-- [Project 1](https://project1-url.com): A description of your project and its features.
-- [Project 2](https://project2-url.com): Another project you've worked on and its key functionalities.
+- [VIPs](https://vipsnepal.com): A Loyalty Program Project.
+- [Digital Menu]([https://.com](https://qrmenu.vipsnepal.com/)): A Paperless Digital Menu.
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/your-profile)
-- Twitter: [@YourTwitterHandle](https://twitter.com/your-handle)
-- Personal Website: [Your Website URL](https://your-website.com)
+- LinkedIn: [Your LinkedIn Profile URL]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/rupesh-dhungana-0186b71b5/))
+- Instagram: [@rupaace](https://instagram.com/rupaace)
+- Personal Website: [Your Website URL](https://rupaace.acetechnepal.com)
 
+## 📫 Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rupaace&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rupaace&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
