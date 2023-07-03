@@ -59,8 +59,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/rupaace/rupaace/output/snake.svg" alt="Snake animation" />
-
-###
