@@ -1,6 +1,6 @@
 # Hi there, I'm Rupesh Dhungana! 👋
 
-I'm a passionate and detail-oriented web developer, specializing in full-stack web development. I love to create meaningful and user-friendly applications that make a positive impact.
+I'm a passionate and detail-oriented software engineer, specializing in full-stack web development. I love to create meaningful and user-friendly applications that make a positive impact.
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
