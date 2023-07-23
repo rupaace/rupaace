@@ -11,6 +11,7 @@ I'm a passionate and detail-oriented software engineer, specializing in full-sta
 - **Database**: MongoDB, MySQL, PostgreSQL
 - **DevOps**: Docker, Kubernetes, AWS, Azure
 - **Version Control**: Git, GitHub
+
   
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
