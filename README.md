@@ -7,7 +7,7 @@ I'm a passionate and detail-oriented software engineer, specializing in full-sta
 ## 🔧 Skills
 
 - **Frontend**: HTML, CSS, JavaScript, React, Vue.js, Next Js, Typescript
-- **Backend**: Node.js, Express.js, Django
+- **Backend**: Node.js, Express.js, Django 
 - **Database**: MongoDB, MySQL, PostgreSQL
 - **DevOps**: Docker, Kubernetes, AWS, Azure
 - **Version Control**: Git, GitHub
