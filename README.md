@@ -45,10 +45,14 @@ I'm a passionate and detail-oriented software engineer, specializing in full-sta
 - Frontend Developer at Seismic Engineering - [2019-2021]
 - Frontend Developer at AceTech - [2021-2023]
 
-## 🌱 Side Projects
+## 🌱 Projects
 
-- [VIPs](https://vipsnepal.com): A Loyalty Program Project.
-- [Digital Menu](https://qrmenu.vipsnepal.com/): A Paperless Digital Menu.
+- Inventory Management System
+- Telehealth Management System
+- Ecommerce Platform
+- Billing System
+- Company Portfolio Websites
+- Paperless Digital Menu.
 
 ## 📫 Get in Touch
 
