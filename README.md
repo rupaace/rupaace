@@ -6,10 +6,8 @@ I'm a passionate and detail-oriented software engineer, specializing in full-sta
 
 ## 🔧 Skills
 
-- **Frontend**: HTML, CSS, JavaScript, React, Vue.js, Next Js, Typescript
-- **Backend**: Node.js, Express.js, Django 
-- **Database**: MongoDB, MySQL, PostgreSQL
-- **DevOps**: Docker, Kubernetes, AWS, Azure
+- **Frontend**: HTML, CSS, JavaScript, React, Next Js, Typescript
+- **Backend**: Django 
 - **Version Control**: Git, GitHub
 
   
@@ -45,7 +43,7 @@ I'm a passionate and detail-oriented software engineer, specializing in full-sta
 ## 💼 Work Experience
 
 - Frontend Developer at Seismic Engineering - [2019-2021]
-- Full Stack Developer at AceTech - [2021-present]
+- Frontend Developer at AceTech - [2021-2023]
 
 ## 🌱 Side Projects
 
